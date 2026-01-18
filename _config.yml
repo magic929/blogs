@@ -9,25 +9,6 @@ url: "https://magic929.github.io/blogs"
 markdown: kramdown
 highlighter: rouge
 
-# Collections
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:name
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "docs"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-
 # Exclude from processing
 exclude:
   - README.md
