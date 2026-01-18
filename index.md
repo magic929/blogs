@@ -15,8 +15,8 @@ This repository serves as a place to write and organize documentation, notes, an
 
 Browse the documentation in the sections below:
 
-- [Getting Started](docs/getting-started.md)
-- [Writing Documentation](docs/writing-docs.md)
+- [Getting Started](docs/getting-started)
+- [Writing Documentation](docs/writing-docs)
 
 ## Recent Updates
 
